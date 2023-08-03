@@ -1,0 +1,5 @@
+/* css global del html: ya que cada css debe tener un js donde se incorpora */
+
+body{
+    background-color: green;
+}
